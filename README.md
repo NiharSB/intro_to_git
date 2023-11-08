@@ -5,3 +5,4 @@
 #i would like a cup of coffee please
 
 #I wonder if i can track my R folder with git
+#I'm adding stuff to this after I've committed so I can see how version tracking works POOP
