@@ -8,4 +8,7 @@
 #I'm adding stuff to this after I've committed so I can see how version tracking works POOP
 
 -Nihar
--[Nihar](./Nihar)
+-[Nihar](./second.md)
+
+#theres another file
+-[MATT](./third.md)
